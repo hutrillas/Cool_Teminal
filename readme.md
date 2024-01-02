@@ -2,7 +2,7 @@
 
 1.- Uso del Script
 
-https://github.com/hutrillas/Cool_Teminal.git
+git clone https://github.com/hutrillas/Cool_Teminal.git
 
 cd Cool_Terminal
 
