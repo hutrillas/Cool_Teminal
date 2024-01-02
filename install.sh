@@ -32,7 +32,7 @@ sudo git clone --depth=1 https://github.com/romkatv/powerlevel10k.git /root/.pow
 sudo pacman -S lsd
 
 # Instalamos las HackNerdFonts
-
+sudo mkdir -p /usr/local/share/fonts
 sudo cp -v $ruta/fonts/* /usr/local/share/fonts/
 
 # Copiando Archivos de Configuración
