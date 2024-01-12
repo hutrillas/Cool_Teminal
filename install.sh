@@ -42,7 +42,7 @@ sudo cp -rv $ruta/kitty /opt/
 
 # Kitty Root
 
-sudo cp -rv $ruta/Config/kitty /root/.config/
+sudo cp -rv $ruta/Config/kitty /root/.config/kitty
 
 # Copia de configuracion de .p10k.zsh y .zshrc
 
